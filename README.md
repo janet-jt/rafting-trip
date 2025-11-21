@@ -1,2 +1,2 @@
 # rafting-trip
-A Linux-based implementation of the Raft consensus algorithm game, developed by following the concepts and exercises from the Raft training at dabeaz.com.
+This is a hands-on learning repository inspired by the “Rafting Trip” training from dabeaz.com/raft.html. The purpose of this repo is to follow along with the training and develop a working Raft consensus algorithm application in Linux.
